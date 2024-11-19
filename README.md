@@ -1,1 +1,1 @@
-# shopEZ
+SHOPEZ E-Commerce Application
